@@ -28,3 +28,7 @@ No credentials for the broker is needed.
 11:07:32.012 -> Publish message: hello world #5
 11:07:32.443 -> Message arrived [inTopic] 1
 11:07:34.004 -> Publish message: hello world #6
+
+The compile options are as shown:
+
+![image](https://user-images.githubusercontent.com/14288989/174532718-a1966b5e-8dfc-476c-9477-351cee03a28c.png)
